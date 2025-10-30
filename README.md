@@ -4,6 +4,12 @@
 
 (Forked to actually utilize `DeepSeek/DeepSeek-OCR` on NVIDIA RTX A6000 web server experimentally)
 
+Refer to [DeepSeek-OCR-master/DeepSeek-OCR-vllm/test_dpsk_ocr_image.py](https://github.com/KnightChaser/DeepSeek-OCR/blob/main/DeepSeek-OCR-master/DeepSeek-OCR-vllm/test_dpsk_ocr_image.py) to check out my code to utilize `DeepSeek/DeepSeek-OCR model` via vLLM framework to parse arbitrary document screenshot.
+
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="assets/logo.svg" width="60%" alt="DeepSeek AI" />
 </div>
